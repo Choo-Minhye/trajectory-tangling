@@ -1,6 +1,6 @@
 
 % plots an axis / calibration
-%
+% send
 % usage: outParams = AxisMMC(start, fin, params)
 % 
 % 'start' and 'fin' are the starting and ending values of the axis
